@@ -19,10 +19,12 @@ while notDone:
     line += "**************************************\n"
     if answer == "Y":
         notDone = False
-        print(line)
-        print(aList)
+        #print(line)
+        #print(aList)
         print(allCharacter)
     else:
         print("Let's try again 😎. ")
 
 ##create larger list/inv and add smaller list to it. After that I should be done requirements
+
+##I HAVE HORRIBLE MEMORY AND DONT REMEMBER HOW TO DO THE LARGER LIST. All i remember is outputting a specific answer of my list like [0] [0] and that would output the first answer put in for the first book in the first/only list.
